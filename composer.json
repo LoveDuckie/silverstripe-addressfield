@@ -1,6 +1,7 @@
 {
     "name": "thewebmen/silverstripe-addressfield",
     "description": "Silverstripe address field with geolocation",
+    "homepage": "https://lucshelton.com",
     "type": "silverstripe-vendormodule",
     "keywords": [
         "silverstripe",
